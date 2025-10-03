@@ -43,10 +43,9 @@
 # plugins: ['jekyll-paginate']
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
-# title: "2nd NeuroAI Workshop @ NeurIPS:<br>Fusing Neuroscience and AI for Intelligent Solutions"
-title: "1st Reliability Quantification for LLMs Workshop @AAAI: Quantifying Reliability in Language Models"
-date_text: "<span style='color: white;'>January, 2026</span>"
-where: "<span style='color: white;'>AAAI 2026, Singapore EXPO</span>"
+title: "How to build world models Tutorial @ICVGIP"
+date_text: "<span style='color: white;'>December, 2025</span>"
+where: "<span style='color: white;'>ICVGIP 2025</span>"
 description: "Under Review"  
-url: "https://llmrel1.github.io/"
+url: "https://howtobuildworldmodels.github.io/"
 baseurl: "" # the subpath of your site, e.g. /blog
