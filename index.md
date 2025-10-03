@@ -11,7 +11,9 @@ Learn how to create a super quick easy website for a workshop by writing a few m
 Host it for free on GitHub with gh-pages, and share!
 Fun!
 
-The website is under contruction!
+
+<span style="color: red;">The website is under contruction!</span>
+
 
 {% include toc.html %}
 
