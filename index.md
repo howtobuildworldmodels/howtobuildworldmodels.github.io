@@ -3,19 +3,15 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# Tutorial on How to build World models 
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
-
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
-
-*Add your workshop abstract here!*
+Tutorial will take place at [Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2025](https://icvgip.in/2025/) organised by IIT Mandi from Dec 17-20.
 
 Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
 Fun!
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+The website is under contruction!
 
 {% include toc.html %}
 
