@@ -17,4 +17,4 @@ Fun!
 
 ------
 
-{% include template/credits.html %}
+[Credits for the website](https://github.com/evanwill/workshop-template-b)
