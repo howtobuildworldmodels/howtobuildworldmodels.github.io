@@ -12,8 +12,31 @@ Fun!
 
 <span style="color: red;">The website is under contruction!</span>
 
+## Overview: Imagine, Plan, and Control with Generative Models 🚀
 
-{% include toc.html %}
+**World Models** are a powerful paradigm in deep learning that grants an agent the ability to learn a compact, predictive representation of its environment directly from its sensory data. This internal model can then be leveraged to simulate the future, enabling planning, exploration, and control without constant, costly interaction with the real world.
+
+This half-day tutorial offers a comprehensive journey from the foundational theory of World Models (e.g., the original WorldModel paper and Dreamer architecture) to their modern implementation using state-of-the-art generative techniques. Attendees will gain the knowledge and practical skills needed to design, train, and apply these models in challenging computer vision and embodied AI tasks.
+
+
+By the end of this tutorial, you will be able to:
+
+1. Understand the Core Components: Detail the roles of the Vision Model (VAE/Vector-Quantized VAE), the Memory Model (Recurrent Dynamics), and the Controller (Policy Network).
+
+2. Appreciate Scalability: Grasp the advancements in modern models (e.g., DreamerV3, Mamba-based dynamics) that enable scaling World Models to high-fidelity, complex environments.
+
+
+
+## Prerequisites
+To get the most out of the hands-on sessions, attendees should be comfortable with:
+
+Deep Learning Fundamentals: Working knowledge of CNNs, RNNs/Transformers, and loss functions.
+
+Python & PyTorch/TensorFlow: Ability to read and modify deep learning code.
+
+Basic RL Concepts: Familiarity with terms like state, action, reward, and policy.
+
+**Questions**: For any inquiries regarding the tutorial content, please contact us at [badrinaths@iisc.ac.in] with subject of the email as "Tutorial at ICVGIP 2025: Building World Models".
 
 ------
 
