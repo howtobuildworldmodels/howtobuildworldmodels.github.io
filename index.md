@@ -38,11 +38,7 @@ Python & PyTorch/TensorFlow: Ability to read and modify deep learning code.
 4. Rishubh Parihar (PhD Student at [Vision and AI Lab (VAL)](https://val.cds.iisc.ac.in/index.html) at IISc, Bangalore)
 
    
-**Questions**: For any inquiries regarding the tutorial content, please contact us at [badrinaths@iisc.ac.in](badrinaths@iisc.ac.in) with subject of the email as "Tutorial at ICVGIP 2025: Building World Models".
-
-**References**
-1. [NVIDIA WFM](https://www.nvidia.com/en-in/glossary/world-models/)
-2. [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+**Questions**: For any inquiries regarding the tutorial content, please contact us at [badrinaths@iisc.ac.in](badrinaths@iisc.ac.in) with subject of the email as "Tutorial at ICVGIP 2025".
 
 ------
 
