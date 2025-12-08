@@ -14,9 +14,9 @@ Generative models have advanced rapidly in recent years, driving breakthroughs a
 
 ### [Section 1] Introduction to Diffusion Models and their application in Content Creation
 
-#### Index
+### Index
 
-- **What is a Diffusion Model?**
+- **What are Diffusion Model?**
   - Conditional Generation
   - Classifier Guidance
 - **Latent Diffusion Models**
