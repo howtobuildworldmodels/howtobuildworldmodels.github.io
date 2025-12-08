@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Tutorial on Generative Models for Content Creation, Reconstruction and Beyond
+# Tutorial on Generative Models for Content Creation, Reconstruction, and Beyond
 
 Tutorial will take place at [Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2025](https://icvgip.in/2025/) organised by IIT Mandi from Dec 17-20.
 
@@ -18,7 +18,9 @@ Generative models have advanced rapidly in recent years, driving breakthroughs a
 
 ## Speakers
 <span style="color: red;">Rishubh Parihar</span>
+
 <span style="color: red;">Ankit Dhiman</span>
+
 <span style="color: red;">Badrinath Singhal</span> 
 
 
