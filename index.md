@@ -13,6 +13,30 @@ Tutorial will take place at [Indian Conference on Computer Vision, Graphics and 
 Generative models have advanced rapidly in recent years, driving breakthroughs across image and video synthesis, 3D scene understanding, and even text generation. Among these, diffusion models have emerged as one of the most powerful and versatile generative frameworks. This tutorial provides a comprehensive introduction to diffusion models, covering their core principles, key design choices, and the evolution of architectures enabling state-of-the-art performance in modern computer vision tasks. We begin with foundational concepts and gradually build toward advanced topics, ensuring accessibility for newcomers while offering depth for experienced researchers. The tutorial is organized into three sections as outlined below:
 
 ### [Section 1] Introduction to Diffusion Models and their application in Content Creation
+
+#### Index
+
+- **What is a Diffusion Model?**
+  - Conditional Generation
+  - Classifier Guidance
+- **Latent Diffusion Models**
+  - Conditional generation with ControlNet
+- **Image Editing via Attention Manipulation**
+  - Prompt2Prompt
+- **Image Composition with Diffusion Models**
+  - DAEdit
+- **Personalization in Diffusion Models**
+  - PreciseControl
+  - Text2Place
+- **Diffusion Image Transformers (DiT)**
+  - SeeThrough3D
+- **Instruction-based Image Editing**
+  - InstructPix2Pix
+  - Flux Kontext
+
+
+
+
 ### [Section 2] Diffusion Models for 3D Reconstruction and Scene Understanding
 ### [Section 3] Diffusion Models for Video Generation and Multimodal Applications
 
