@@ -54,6 +54,8 @@ Generative models have advanced rapidly in recent years, driving breakthroughs a
 
 <span style="color: red;">Badrinath Singhal</span> 
 
+<span style="color: red;">AS Anudeep</span> 
+
 
 ## Prerequisites
 To get the most out of sessions, attendees should be comfortable with:
