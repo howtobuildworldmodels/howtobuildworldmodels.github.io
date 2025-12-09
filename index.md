@@ -40,9 +40,9 @@ Generative models have advanced rapidly in recent years, driving breakthroughs a
 ### [Section 2] Diffusion Models for 3D Reconstruction and Scene Understanding
 ### [Section 3] Diffusion Models for Video Generation and Multimodal Applications
 
-- **Video Generation
+- **Video Generation**
   - Different Models
-- **Video Models for 3D scene generation
+- **Video Models for 3D scene generation**
   - Static Scene Generation
   - Dynamic Scene Reconstruction
   - Extracting 3D properties from Video Models
