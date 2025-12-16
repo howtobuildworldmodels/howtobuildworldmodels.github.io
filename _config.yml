@@ -43,7 +43,7 @@
 # plugins: ['jekyll-paginate']
 # exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 
-title: "How to build world models Tutorial @ICVGIP2025"
+title: "Generative Models for Content Creation, Reconstruction, and Beyond @ICVGIP2025"
 date_text: "<span style='color: white;'>December, 2025</span>"
 where: "<span style='color: white;'>ICVGIP 2025</span>"
 description: "Under Review"  
