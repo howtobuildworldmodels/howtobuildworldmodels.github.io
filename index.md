@@ -16,15 +16,15 @@ Generative models have advanced rapidly in recent years, driving breakthroughs a
 
 ### Index
 
-**What are Diffusion Models?
+- **What are Diffusion Models?**
  - Classifier guidance 
-**Latent Diffusion Model 
+- **Latent Diffusion Model** 
  - Conditional generation 
-**ControlNet
-**Diffusion Image Transformers
+- **ControlNet**
+- **Diffusion Image Transformers** 
  - OminiControl
  - SeeThrough3D 
-**Applications
+- **Applications**
  - Instruct Pix2Pix 
  - Continuous Editing Control
  - Personalization
