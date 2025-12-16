@@ -16,23 +16,22 @@ Generative models have advanced rapidly in recent years, driving breakthroughs a
 
 ### Index
 
-- **What are Diffusion Model?**
-  - Conditional Generation
-  - Classifier Guidance
-- **Latent Diffusion Models**
-  - Conditional generation with ControlNet
-- **Image Editing via Attention Manipulation**
-  - Prompt2Prompt
-- **Image Composition with Diffusion Models**
-  - DAEdit
-- **Personalization in Diffusion Models**
-  - PreciseControl
-  - Text2Place
-- **Diffusion Image Transformers (DiT)**
-  - SeeThrough3D
-- **Instruction-based Image Editing**
-  - InstructPix2Pix
-  - Flux Kontext
+** What are Diffusion Models?
+ - Classifier guidance 
+** Latent Diffusion Model 
+ - Conditional generation 
+** ControlNet
+** Diffusion Image Transformers
+ - OminiControl
+ - SeeThrough3D 
+** Applications
+ - Instruct Pix2Pix 
+ - Continuous Editing Control
+ - Personalization
+ - PreciseControl
+ - Text2Place
+ - Depth Prediction  
+
 
 
 
