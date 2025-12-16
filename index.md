@@ -51,11 +51,18 @@ Generative models have advanced rapidly in recent years, driving breakthroughs a
 ### [Section 3] Diffusion Models for Video Generation and Multimodal Applications
 
 - **Video Generation**
-  - Different Models
-- **Video Models for 3D scene generation**
-  - Static Scene Generation
-  - Dynamic Scene Reconstruction
-  - Extracting 3D properties from Video Models
+  - Different Video Models
+- **Controlling Video Models**
+  - Camera Control
+  - Motion Control
+- **Evaluation**
+  - Vbench, EvalCrafter, VideoScore etc.
+  - Physics Evaluations
+- **Limitations**
+  - Fixed Length Denoising
+  - Non Causal Video Generation
+  - Diffusion Forcing
+  - Inadequate prompts, Motion Dynamics
 
 ## Speakers
 <span style="color: red;">Rishubh Parihar</span>
