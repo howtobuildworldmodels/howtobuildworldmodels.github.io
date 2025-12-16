@@ -37,7 +37,17 @@ Generative models have advanced rapidly in recent years, driving breakthroughs a
 
 
 
-### [Section 2] Diffusion Models for 3D Reconstruction and Scene Understanding
+### [Section 2] Diffusion Models for 3D Generation
+### Index
+
+- **Different 3D Representations**
+- **Image Priors for Sparse Views Novel-View Synthesis**
+- **3D Generation using Image Diffusion Models**
+  - DreamFusion
+  - DreamGaussian
+- **Large Reconstruction Models**
+- **Diffusion Models for 3D Generation**
+  
 ### [Section 3] Diffusion Models for Video Generation and Multimodal Applications
 
 - **Video Generation**
