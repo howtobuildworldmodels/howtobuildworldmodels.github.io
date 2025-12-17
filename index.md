@@ -78,7 +78,8 @@ To get the most out of sessions, attendees should be comfortable with:
 Deep Learning Fundamentals: Working knowledge of CNNs, RNNs/Transformers, and loss functions.
 Python & PyTorch/TensorFlow: Ability to read and modify deep learning code.
 
-
+## Slides for the tutorial
+[Here](https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/badrinaths_iisc_ac_in/IgCJMLpMMrA4SZcDNC_hFc9BATTwgpmBj8xnuUJXD7svzAQ?e=tEVqRs) is the link for the slides. Please note that the link will be disabled after 30 days from 17th Dec 2025
 
 ## Organisers
 1. Ankit Dhiman (PhD Student at [Vision and AI Lab (VAL)](https://val.cds.iisc.ac.in/index.html) at IISc, Bangalore)
