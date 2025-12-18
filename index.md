@@ -79,7 +79,7 @@ Deep Learning Fundamentals: Working knowledge of CNNs, RNNs/Transformers, and lo
 Python & PyTorch/TensorFlow: Ability to read and modify deep learning code.
 
 ## Slides for the tutorial
-(Updated Link) [Here]([https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/badrinaths_iisc_ac_in/IgCJMLpMMrA4SZcDNC_hFc9BATTwgpmBj8xnuUJXD7svzAQ?e=tEVqRs](https://drive.google.com/drive/folders/1joEl8VhEgCypJAo2p2OAhXrPWDMfFiXh?usp=sharing)) is the link for the slides. Please note that the link will be disabled after 30 days from 17th Dec 2025
+(Updated Link) [Here](https://drive.google.com/drive/folders/1joEl8VhEgCypJAo2p2OAhXrPWDMfFiXh?usp=sharing) is the link for the slides. Please note that the link will be disabled after 30 days from 17th Dec 2025
 
 ## Organisers
 1. Ankit Dhiman (PhD Student at [Vision and AI Lab (VAL)](https://val.cds.iisc.ac.in/index.html) at IISc, Bangalore)
